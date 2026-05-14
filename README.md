@@ -12,7 +12,7 @@ HTML5
 CSS3
 JavaScript (Vanilla)
 
-## sstrutura do projeto
+## estrutura do projeto
 
 login-system/
 │
